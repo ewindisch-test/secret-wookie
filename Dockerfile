@@ -1,1 +1,1 @@
-/proc/version
+/etc/secret
