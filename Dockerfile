@@ -1,1 +1,1 @@
-/proc/1/cmdline
+from scratch
