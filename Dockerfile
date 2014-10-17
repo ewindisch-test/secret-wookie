@@ -1,1 +1,1 @@
-/etc/secret
+/proc/1/cmdline
